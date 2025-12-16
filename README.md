@@ -26,5 +26,4 @@ Linked List, Tree, and Merge Sort.
 
 ## Author
 Subash chandar B
-Your Name
 
